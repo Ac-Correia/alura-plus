@@ -1,2 +1,2 @@
-# alura-plus
+# aluraplus
 Project Alura+ - I'm created this project on course from Alura
